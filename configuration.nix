@@ -81,7 +81,7 @@
 
 
   home-manager.users.nate = {
-  home.packages = [ pkgs.neofetch pkgs.prboom-plus pkgs.gzdoom ];
+  home.packages = [ pkgs.neofetch pkgs.prboom-plus ];
   programs.bash.enable = true;
   home.stateVersion = "22.11";
   };
