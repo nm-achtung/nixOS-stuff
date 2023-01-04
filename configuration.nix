@@ -124,6 +124,9 @@
   emacs
   steam
   fragments
+  virt-manager
+  qemu_kvm
+  libvirt
   gnomeExtensions.appindicator
   gnomeExtensions.gsconnect
   gnomeExtensions.just-perfection
